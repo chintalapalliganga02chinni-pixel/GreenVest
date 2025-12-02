@@ -1,5 +1,5 @@
-package com.greenvest.ui;
 
+package com.greenvest.ui;
 import com.greenvest.common.JsonFileUtil;
 import com.greenvest.common.PasswordHasher;
 import com.greenvest.common.SystemConfig;

@@ -17,3 +17,5 @@ public class BuyerController {
         return buyerService.getTransactionsForBuyer(buyerId);
     }
 }
+
+
